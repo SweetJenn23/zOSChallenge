@@ -1,12 +1,13 @@
 package com.ibm.zoschallenge;
 
-public class Challenge {
+public class ChallengeOriginal {
 
     /**
      * Upper case the input string and return it.
      *
      */
     public static String testOne(String input) {
+
         return "";
     }
 
@@ -15,6 +16,7 @@ public class Challenge {
      *
      */
     public static int testTwo(int a, int b) {
+
         return 0;
     }
 
@@ -22,6 +24,7 @@ public class Challenge {
      * Return the smallest value out of the inputs.
      */
     public static int testThree(int a, int b){
+
         return 0;
     }
 
@@ -29,6 +32,7 @@ public class Challenge {
      * Return the square root of the input.
      */
     public static int testFour(int a){
+
         return 0;
     }
 
@@ -38,6 +42,7 @@ public class Challenge {
      * Note: Case does matter!
      */
     public static boolean testFive(String input1, String input2){
+
         return false;
     }
 
@@ -45,6 +50,7 @@ public class Challenge {
      * Combine two strings together.
      */
     public static String testSix(String input1, String input2){
+
         return "";
     }
 
@@ -52,6 +58,7 @@ public class Challenge {
      * Find the absolute value of the input.
      */
     public static int testSeven(int a){
+
         return 0;
     }
 
@@ -59,6 +66,7 @@ public class Challenge {
      * Find the quotient of the inputs.
      */
     public static int testEight(int a, int b){
+
         return 0;
     }
 
@@ -66,6 +74,7 @@ public class Challenge {
      * Find the product of the inputs.
      */
     public static int testNine(int a, int b){
+
         return 0;
     }
 
@@ -73,6 +82,7 @@ public class Challenge {
      * Return the input without any white spaces.
      */
     public static String testTen(String input1){
+
         return "";
     }
 
@@ -80,6 +90,7 @@ public class Challenge {
      * Find the sine value of the input.
      */
     public static int testEleven(int a){
+
         return 0;
     }
 
@@ -87,6 +98,7 @@ public class Challenge {
      * Replace a given letter in a string with another given letter.
      */
     public static String testTwelve(String input1, char a, char b){
+
         return "";
     }
 
@@ -94,6 +106,7 @@ public class Challenge {
      * Determine if the given string starts with the specified string.
      */
     public static boolean testThirteen(String givenString, String specifiedString){
+
         return false;
     }
 
@@ -101,6 +114,7 @@ public class Challenge {
      * Return a string of all lower case letters.
      */
     public static String testFourteen(String input1){
+
         return "";
     }
 
@@ -108,6 +122,7 @@ public class Challenge {
      * Find the difference between the given inputs
      */
     public static int testFifteen(int a, int b){
+
         return 0;
     }
 
