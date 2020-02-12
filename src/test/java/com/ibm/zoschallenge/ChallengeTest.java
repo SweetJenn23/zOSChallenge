@@ -77,7 +77,7 @@ public class ChallengeTest {
     @Test
     public void testTen(){
         Assert.assertEquals(
-                "Elementary,mydearWatson.",
+                "Elementary, my dear Watson.",
                 Challenge.testTen(" Elementary, my dear Watson.  ")
         );
     }
