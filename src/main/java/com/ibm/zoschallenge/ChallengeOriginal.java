@@ -3,6 +3,10 @@ package com.ibm.zoschallenge;
 public class ChallengeOriginal {
 
     /**
+      * Adding another comment block for testing.
+      */
+
+    /**
      * Upper case the input string and return it.
      *
      */
