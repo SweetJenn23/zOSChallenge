@@ -24,7 +24,7 @@ public class Challenge {
      * Return the smallest value out of the inputs.
      */
     public static int testThree(int a, int b){
-        return Integer.min(a,b);
+        return Integer.min(a, b);
     }
 
     /**
@@ -82,7 +82,7 @@ public class Challenge {
      * Find the sine value of the input.
      */
     public static int testEleven(double a){
-        return (int)Math.sin(Math.toRadians(a));
+        return (int) Math.sin(Math.toRadians(a));
     }
 
     /**
