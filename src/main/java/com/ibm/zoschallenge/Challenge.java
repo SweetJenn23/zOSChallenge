@@ -31,7 +31,7 @@ public class Challenge {
      * Return the square root of the input.
      */
     public static int testFour(double a){
-        return (int)Math.sqrt(a);
+        return (int) Math.sqrt(a);
     }
 
     /**
