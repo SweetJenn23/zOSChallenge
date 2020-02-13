@@ -39,7 +39,7 @@ public class ChallengeTest {
 
     @Test
     public void testFive(){
-        Assert.assertTrue(Challenge.testFive("How you doin'?", "how you doin'?"));
+        Assert.assertFalse(Challenge.testFive("How you doin'?", "how you doin'?"));
     }
 
     @Test
