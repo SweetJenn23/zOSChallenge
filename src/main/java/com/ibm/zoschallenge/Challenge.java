@@ -9,7 +9,7 @@ public class Challenge {
      *
      */
     public static String testOne(String input) {
-        return input.toUpperCase();
+        return "";
     }
 
     /**
@@ -17,7 +17,7 @@ public class Challenge {
      *
      */
     public static int testTwo(int a, int b) {
-        return Integer.max(a,b);
+        return 0;
     }
 
     /**
